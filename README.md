@@ -11,7 +11,7 @@ Here is a tennative list of functionality I want:
 - Some fun image processing functions (for the memes)
 - general moderation quality of life feautres (similar to the current bot commands)
 
-If anyone thinks of anything else let me know and I'll add it. Anyone isa free to contribute, just make a PR.
+If anyone thinks of anything else let me know and I'll add it. Anyone is free to contribute, just make a PR.
 
 ## Command List
 ### Each command must be used with the prefix '$', so the bot will recognize the message as a command.
