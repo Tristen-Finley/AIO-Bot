@@ -1,9 +1,3 @@
-# InstantMessengerBot
-Chat Moderator Bot for Instant Messenging service (Discord)
-#  Voltron Bot About/Help Sheet
-## Introductory
-This page was created to help familiarize people with the Discord Bot, Voltron, and how to use its different commands. 
-
 ## Features
 Currently the robot automatically connects to the server, and DMs any new users added while the bot is active.
 The terminal will recieve various pieces of information on the channel the bot has joined, including name of the server, the owner of the server, and a few other details.
